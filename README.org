@@ -1,10 +1,10 @@
 * Fall 2020 - Lab 07
 
-* Last name:
+* Last name: Molla
 
-* First name:
+* First name: Farhan
 
-* GitHub username:
+* GitHub username: farhan0120
 
 * Notes:
 
