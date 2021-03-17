@@ -2,8 +2,6 @@
 #include <cctype>
 #include <string>
 #include <fstream> 
-
-
 #include "unindent.h"
 
 using std::cout;
