@@ -18,7 +18,7 @@ int main()
   cout << new_code << endl;
   
   //This then writes the formatted string back into the file
-  std::ofstream file("input.cpp");
+   std::ofstream file("input.cpp");
   file << new_code;
   file.close();
   //This closes the file
